@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "",
+    "url": "https://dict.mcmod.cn",
+    "title": "模组翻译参考词典",
+    "description": ""
+  },
+  {
+    "icon": "",
+    "url": "https://minecraft.fandom.com/zh/wiki/Minecraft_Wiki:%E8%AF%91%E5%90%8D%E6%A0%87%E5%87%86%E5%8C%96",
+    "title": "原版词汇中英对照",
+    "description": ""
+  },
+  {
+    "icon": "",
+    "url": "https://search.mcmod.cn",
+    "title": "我的世界中文百科",
+    "description": "查询模组的中文百科"
+  },
+  {
+    "icon": "https://media.forgecdn.net/avatars/130/458/636460205549127215.png",
+    "url": "https://www.curseforge.com/minecraft/mc-mods",
+    "title": "curseforge MODS",
+    "description": "查询MC官方模组"
+  },
+  {
+    "icon": "https://github.githubassets.com/favicons/favicon.png",
+    "url": "https://github.com/CFPAOrg/Minecraft-Mod-Language-Package",
+    "title": "I18n项目地址",
+    "description": "中文汉化社区项目"
+  }
+]
