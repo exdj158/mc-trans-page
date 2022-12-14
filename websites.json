@@ -28,5 +28,11 @@
     "url": "https://github.com/CFPAOrg/Minecraft-Mod-Language-Package",
     "title": "I18n项目地址",
     "description": "中文汉化社区项目"
+  },
+  {
+    "icon": "",
+    "url": "https://www.mcmod.cn/post/1788.html",
+    "title": "open loader使用教程",
+    "description": "动态加载汉化文件"
   }
 ]
